@@ -7,6 +7,8 @@
 #' 
 #' @usage substrRight(x, start, stop, reverse)
 #' 
+#' @importFrom ggplot2 qplot
+#' 
 #' @param x a character vector
 #' @param start integer. The first element to be replaced (counting from the RHS).
 #' @param stop integer. The last element to be replaced (counting from the RHS).
