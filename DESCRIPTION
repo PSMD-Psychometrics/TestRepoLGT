@@ -5,7 +5,7 @@ Authors@R: c(
     person("Dale", "Millington", email = "dale.millington@plymouth.ac.uk", role = c("aut", "cre"))
     )
 Description: Package and repository demonstration
-Depends: R (>= 3.4.0)
+Depends: R (>= 3.2.1)
 License: GPL-2
 Encoding: UTF-8
 LazyData: true
